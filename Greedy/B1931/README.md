@@ -1,4 +1,4 @@
-# [백준 1931](https://www.acmicpc.net/problem/1931). Task Scheduling
+# [백준 1931_1](https://www.acmicpc.net/problem/1931). Task Scheduling
 
 ## ✏️ 문제 설명
 * 하나의 작업에는 시작 시각, 종료 시각이 주어져 있음
