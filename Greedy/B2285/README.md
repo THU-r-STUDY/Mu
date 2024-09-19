@@ -8,6 +8,7 @@
 ## ✏️ Solution
 * 중앙값을 활용했다.
 * 중앙값의 정의는 다음과 같다.
+    ![image](https://github.com/THU-r-STUDY/Mu/blob/main/Greedy/B2285/image.png)
 * "어떤 주어진 값들을 크기의 순서대로 정렬했을 때 가장 중앙에 위치하는 값"
   → 총 인구의 절반이 넘는 지점에서 우체국을 세우면, 사람들까지의 거리를 최소화 할 수 있다.
 
